@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tfjackc
-- 👀 I’m interested in Python, SQL, and JavaScript for the geospatial industry
+- 👀 I’m interested in programming languages such as Python, SQL, and JavaScript for the geospatial industry
 - 🌱 I’m currently learning how to create custom geoprocessing tools with python, and custom web maps with the ArcGIS API for JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
