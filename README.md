@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tfjackc
 - 👀 I’m interested in programming languages such as Python, R, SQL, and JavaScript for the geospatial industry
-- 🌱 I’m currently learning how to create custom geoprocessing tools with python, and custom web maps with the ArcGIS API for JavaScript
-- 📫 How to reach me https://www.gnugis.dev/portfolio/jackcolpitt/
+- 📫 How to reach me [https://www.gnugis.dev/portfolio/jackcolpitt/](https://www.pnw-geo.com/portfolio/jhc/)
 
 <!---
 tfjackc/tfjackc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
